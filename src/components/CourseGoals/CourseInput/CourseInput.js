@@ -7,7 +7,7 @@ import './CourseInput.css';
 const FormControl = styled.div`
     margin: 0.5rem 0;
   
-    & label{
+    &label{
       font-weight: bold;
       display: block;
       margin-bottom: 0.5rem;
